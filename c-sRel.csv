@@ -1,0 +1,76 @@
+﻿c-s_id,context_category,service_category
+1,cars block bikes ,set restricted car parking area
+2,car park,set restricted car parking area
+3,bike lanes zig zag,set restricted car parking area
+4,cars block bikes ,restrict car driving direction
+5,bike lanes are disconnected ,revamp bike lane
+6,cyclists and drivers use same lanes,revamp bike lane
+7,cyclists and drivers use same lanes,widen car lane
+8,cyclists and drivers use same lanes,add clear signage on bike lane
+9,no clear bike lane signage,add clear signage on bike lane
+10,without clear traffic light,add traffic light
+11,without clear traffic light,add traffic light
+12,without clear traffic light,educate drivers
+13,intersection,add traffic light
+14,construction blocks bike lane,build new bike lane
+15,park,build new bike lane
+16,bike theft,add docks
+17,bike theft,add cameras near bike docks
+18,guide sign is unclear,add clear signage on bike lane
+19,cyclists and pedestrians use same lane,force cyclists dismount
+20,cyclists and pedestrians use same lane,widen bike lane
+21,construction blocks bike lane ,build new bike lane
+22,traffic congestion at peak time,build new bike lane
+23,without clear bike lane signage ,add clear signage on bike lane
+24,many cyclists,add clear signage on bike lane
+25,no clear bike lane signage,build separate bike lanes
+26,many cyclists,build separate bike lanes
+27,bad at right turn,add clear signage on traffic light
+28,cars are parked in bike lane,add clear signage on traffic light
+29,both cyclists and pedestrians use pedestrian crossing,add clear signage on traffic light
+30,no bike lane ,build new bike lane
+31,bike lanes are disconnected ,extend bike lane as continuous lane
+32,construction blocks bike lane,reinstate the bike lane once the construction is complete
+33,construction blocks bike lane,build fast and slow bike lanes
+34,waste of time for cyclists,build underpass
+35,no greenery,plant greenery
+36,guide sign is unclear,add clear guide sign beside roads
+37,bike lanes are disconnected,add clear signage at intersection
+38,have to dismount and/or ride on pedestrian lane,add clear signage at intersection
+39,guide sign is unclear,add clear signs beside roads
+40,tram stop,build new bike lane
+41,bike/shared lane is too narrow,build new bike lane
+42,heavy bike traffic,build new bike lane
+43,waste of time for cyclists,rearrange bike traffic light
+44,thirsty cyclists,build drinking fountains
+45,bike/shared lane is too narrow,widen bike lane 
+46,bike lanes are disconnected ,extend bike lane as continuous lane
+47,cyclists and pedestrians use same lane,extend bike lane as continuous lane
+48,cyclists and drivers use same lanes,ban cars
+49,CBD,ban cars
+50,cyclists and pedestrians use same lane,ban cars
+51,waste of time for cyclists,add sensors on bike traffic light
+52,bike lanes are disconnected,widen shared path
+53,no bike lane ,build new bike lane
+54,foot traffic is high,build contra-flow bike lanes
+55,waste of time for cyclists,widen bike lane
+56,no clear signage at the beginning of bike lane,add clear signage at the beginning of bike lane
+57,need to press the button to activate the traffic light for cyclists,add sensors on bike traffic light
+58,no clear signage that if the traffic light is activated or not,add sensors on bike traffic light
+59,no adequate signage,build new bike lane 
+60,heavy bike traffic,ban parking
+61,too many overtaking,ban parking
+62,cars block bikes ,add left-turn-only sign
+63,cars do not obey traffic rules,add left-turn-only sign
+64,cars block bikes ,raise pavement to footpath level
+65,cars do not obey traffic rules,raise pavement to footpath level
+66,no adequate space for both cars and bikes,set restricted car lane
+67,no adequate space for both cars and bikes,make bike docks end to end
+68,cars block the bikes,rearrange bike traffic light
+69,high speed traffic,force cyclists dismount
+70,traffic congestion at major route,add clear signage at intersection
+71,bike lanes are disconnected ,provide subsidy to cyclists
+72,cyclists are in danger ,provide subsidy to cyclists
+73,no enough space for bike parking ,add bike parking area
+74,traffic congestion at intersection,paint bike refuge at right place
+75,intersection,paint bike refuge at right place
