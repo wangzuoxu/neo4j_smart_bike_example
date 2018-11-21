@@ -1,0 +1,31 @@
+﻿product_category1,product_category2
+bike lane ,parked cars
+bike lane ,bus lane
+other signage,bus lane
+bike traffic light,perdestrian lane 
+bike lane ,dock
+bike lane ,camera 
+dock,camera
+bike lane ,gutter
+right turning lane,pedestrian crossing
+bike lane ,perdestrian lane 
+underpass,bike traffic light
+bike traffic light,traffic island
+underpass,traffic island
+bike lane ,dock
+bike lane ,tree
+dock,tree
+shrub,tree
+bike lane ,shrub
+dock,shrub
+bike lane ,bike traffic light
+bike lane ,perdestrian lane 
+sensors on traffic light,bike traffic light
+bike lane ,perdestrian lane 
+shared lane ,bike traffic light
+ramp,perdestrian lane 
+bike,ramp
+car,ramp
+bike,car
+perdestrian lane ,car
+perdestrian lane ,bike
