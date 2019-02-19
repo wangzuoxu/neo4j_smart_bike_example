@@ -1,0 +1,99 @@
+﻿p-c_id,product_category,context_category
+1,bike lane,cars block bikes
+2,bike lane,car park
+3,bike lane,cars are parked in bike lane
+4,bike lane,car park
+5,bike lane,bike lanes zig zag
+6,parked cars,bike lanes zig zag
+7,bike lane,cars block bikes
+8,bus lane,cars block bikes
+9,bike lane,bike lanes are disconnected
+10,bus lane,cyclists and pedestrians use same lane
+11,bike lane,bike lanes are disconnected
+12,bus lane,cyclists and pedestrians use same lane
+13,bus lane,no clear bike lane signage
+14,bus lane,cyclists and drivers use same lanes
+15,other signage,no clear bike lane signage
+16,other signage,cyclists and drivers use same lanes
+17,bike traffic light,without clear traffic light
+18,pedestrian lane,without clear traffic light
+19,bike traffic light,intersection
+20,bike traffic light,without clear traffic light
+21,bike lane,construction blocks bike lane
+22,bike lane,park
+23,camera,bike theft
+24,dock,bike theft
+25,bike lane,bike theft
+26,turn-around facilities,traffic congestion at major routes
+27,painted bike refuge,traffic congestion at intersection
+28,painted bike refuge,intersection
+29,painted bike refuge,no clear signage at other place
+30,pedestrian lane, cyclists and pedestrians use same lane
+31,bike lane,construction blocks bike lane
+32,gutter,construction blocks bike lane
+33,bike lane,intersection
+34,bike lane,traffic congestion at peak time
+35,painted bike lane ,no clear bike lane signage
+36,painted bike lane ,many cyclists
+37,right turning lane,right turn lane is blocked
+38,right turning lane,cars are parked in bike lane
+39,right turning lane,both cyclists and pedestrians use pedestrian crossing
+40,pedestrian crossing,right turn lane is blocked
+41,pedestrian crossing,cars are parked in bike lane
+42,pedestrian crossing,both cyclists and pedestrians use pedestrian crossing
+43,cyclist activated lights,right turn lane is blocked
+44,cyclist activated lights,cars are parked in bike lane
+45,sensors on traffic light,both cyclists and pedestrians use pedestrian crossing
+46,bike lane,disconnected shared lane
+47,bike lane,no bike lane 
+48,pedestrian lane,disconnected shared lane
+49,pedestrian lane,no bike lane 
+50,bike lane ,construction blocks bike lane 
+51,underpass,waste of time for cyclists
+52,bike traffic light,waste of time for cyclists
+53,traffic island,waste of time for cyclists
+54,bike lane,no greenery
+55,dock,no greenery
+56,tree,no greenery
+57,shrub,no greenery
+58,bike lane,no clear guide signage
+59,pedestrian lane,bike lanes are disconnected
+60,pedestrian lane,have to dismount and/or ride on pedestrian lane
+61,guide sign,guide sign is unclear
+62,bike lane,bike/shared lane is too narrow
+63,bike lane,traffic around tram stop is heavy
+64,bike traffic light,intersection 
+65,bike traffic light,waste of time for cyclists
+66,drinking fountains,thirsty cyclists
+67,bike lane ,bike/shared lane is too narrow
+68,pedestrian lane,bike/shared lane is too narrow
+69,shared lane,cyclists and pedestrians use same lane
+70,shared lane,bike lanes are disconnected
+71,car ,cyclists and pedestrians use same lane
+72,car,cyclists and drivers use same lanes
+73,sensors on traffic light,waste of time for cyclists
+74,bike traffic light,waste of time for cyclists
+75,bike lane ,bike lanes are disconnected
+76,bike lane,no bike lane 
+77,shared lane,foot traffic is high
+78,pedestrian traffic light ,foot traffic is high
+79,shared lane,waste of time for cyclists
+80,bike traffic light ,waste of time for cyclists
+81,bike traffic light ,no clear signage that if the traffic light is activated or not
+82,bike traffic light ,need to press the button to activate the traffic light for cyclists
+83,painted bike lane signage,no adequate signage
+84,bike lane,too many overtaking
+85,bike lane,heavy bike traffic
+86,pedestrain crossing,cars block bikes 
+87,pedestrian lane,cars block bikes 
+88,bike,cars block bikes 
+89,car,cars block bikes 
+90,dock,no adequate space for both cars and bikes
+91,car,cars block bikes
+92,bike,cars block bikes
+93,ramp,cars block bikes
+94,right turn sign,no clear signage beside road
+95,turn-around facilities,bad at right turn
+96,right turn sign,bad at right turn
+97,bike lane signage ,signage are too close to kerb 
+98,kerb,signage are too close to kerb 
