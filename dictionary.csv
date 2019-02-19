@@ -1,0 +1,118 @@
+﻿id,category,label
+0,bike,product
+1,car,product
+2,parked cars,product
+3,drinking fountains,product
+4,sensors on traffic light,product
+5,tree,product
+6,shrub,product
+7,camera,product
+8,dock,product
+9,right turn sign,product
+10,left turn sign,product
+11,painted bike refuge,product
+12,other signage,product
+13,painted bike lane signage,product
+14,kerb,product
+15,gutter,product
+16,traffic island,product
+17,bike traffic light,product
+18,pedestian traffic light,product
+19,car traffic light,product
+20,shared lane ,product
+21,underpass,product
+22,through car lane ,product
+23,right turn car lane,product
+24,left turn car lane,product
+25,bus lane,product
+26,ramp,product
+27,bike lane,product
+28,pedestrian lane,product
+29,pedestrian crossing,product
+30,turn-around facilities,product
+31,right turning lane,product
+32,cyclist activated lights,product
+33,guide sign,product
+40,foot traffic is high,context
+41,too many overtaking,context
+42,heavy bike traffic,context
+43,traffic congestion at peak time,context
+44,traffic congestion at intersection,context
+45,traffic congestion at major routes,context
+46,high speed traffic,context
+47,no clear signage that if the traffic light is activated or not,context
+48,bad at right turn,context
+49,need to press the button to activate the traffic light for cyclists,context
+50,waste of time for cyclists,context
+51,cars do not obey traffic rules,context
+52,cars block bikes,context
+53,cyclists and drivers use same lanes,context
+54,no adequate space for both cars and bikes,context
+55,cars are parked in bike lane,context
+56,cyclists and pedestrians use same lane,context
+57,bike/shared lane is too narrow,context
+58,without clear traffic light,context
+59,no clear signage at the beginning of bike lane,context
+60,no adequate signage,context
+61,no greenery,context
+62,construction blocks bike lane,context
+63,no bike lane ,context
+64,bike lanes are disconnected,context
+65,no clear bike lane signage,context
+66,bike lanes zig zag,context
+67,have to dismount and/or ride on pedestrian lane,context
+68,bike theft,context
+69,thirsty cyclists,context
+70,intersection ,context
+71,tram stop,context
+72,car park,context
+73,park,context
+74,CBD,context
+75,other spot,context
+76,many cyclists,context
+77,right turn lane is blocked,context
+78,guide sign is unclear,context
+79,traffic around tram stop is heavy,context
+80,no clear signage at other place,context
+81,no clear signage that if the traffic light is activated or not,context
+82,need to press the button to activate the traffic light for cyclists,context
+83,no clear signage beside road,context
+84,signage are too close to kerb ,context
+85,cyclists are in danger ,context
+86,no enough space for bike parking ,context
+100,add cameras near bike docks,service
+101,add docks,service
+102,build drinking fountains,service
+103,build separate bike lanes,service
+104,build new bike lane,service
+105,plant greenery,service
+106,add traffic light,service
+107,add sensors on bike traffic light,service
+108,build contra-flow bike lanes,service
+109,add bike parking area,service
+110,add clear signage at the beginning of bike lane,service
+111,add left-turn-only sign,service
+112,add clear signage on bike lane,service
+113,add clear signage on traffic light,service
+114,add clear signage at intersection,service
+115,add clear guide sign beside roads,service
+116,build underpass,service
+117,raise pavement to footpath level,service
+118,rearrange bike traffic light,service
+119,extend bike lane as continuous lane,service
+120,set restricted car lane,service
+121,build fast and slow bike lanes,service
+122,set restricted car parking area,service
+123,widen car lane,service
+124,widen shared path,service
+125,widen bike lane,service
+126,revamp bike lane,service
+127,make bike docks end to end,service
+128,restrict car driving direction,service
+129,ban parking,service
+130,force cyclists dismount,service
+131,educate drivers,service
+132,provide subsidy to cyclists,service
+133,reinstate the bike lane once the construction is complete,service
+134,ban cars,service
+135,paint bike refuge at right place,service
