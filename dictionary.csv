@@ -1,0 +1,118 @@
+﻿id(n),n.category,label
+0,foot traffic is high,Context
+1,too many overtaking,Context
+2,heavy bike traffic,Context
+3,traffic congestion at peak time,Context
+4,traffic congestion at intersection,Context
+5,traffic congestion at major routes,Context
+6,high speed traffic,Context
+7,no clear signage that if the traffic light is activated or not,Context
+8,bad at right turn,Context
+9,need to press the button to activate the traffic light for cyclists,Context
+10,waste of time for cyclists,Context
+11,cars do not obey traffic rules,Context
+12,cars block bikes,Context
+13,cyclists and drivers use same lanes,Context
+14,no adequate space for both cars and bikes,Context
+15,cars are parked in bike lane,Context
+16,cyclists and pedestrians use same lane,Context
+17,bike/shared lane is too narrow,Context
+18,without clear traffic light,Context
+19,no clear signage at the beginning of bike lane,Context
+20,no adequate signage,Context
+21,no greenery,Context
+22,construction blocks bike lane,Context
+23,no bike lane ,Context
+24,bike lanes are disconnected,Context
+25,no clear bike lane signage,Context
+26,bike lanes zig zag,Context
+27,have to dismount and/or ride on pedestrian lane,Context
+28,bike theft,Context
+29,thirsty cyclists,Context
+30,intersection ,Context
+31,tram stop,Context
+32,car park,Context
+33,park,Context
+34,CBD,Context
+35,other spot,Context
+36,many cyclists,Context
+37,right turn lane is blocked,Context
+38,guide sign is unclear,Context
+39,traffic around tram stop is heavy,Context
+40,no clear signage at other place,Context
+41,no clear signage that if the traffic light is activated or not,Context
+42,need to press the button to activate the traffic light for cyclists,Context
+43,no clear signage beside road,Context
+44,signage are too close to kerb ,Context
+45,cyclists are in danger ,Context
+46,no enough space for bike parking ,Context
+47,add cameras near bike docks,Services
+48,add docks,Services
+49,build drinking fountains,Services
+50,build separate bike lanes,Services
+51,build new bike lane,Services
+52,plant greenery,Services
+53,add traffic light,Services
+54,add sensors on bike traffic light,Services
+55,build contra-flow bike lanes,Services
+56,add bike parking area,Services
+57,add clear signage at the beginning of bike lane,Services
+58,add left-turn-only sign,Services
+59,add clear signage on bike lane,Services
+60,bike,Products
+61,car,Products
+62,parked cars,Products
+63,drinking fountains,Products
+64,sensors on traffic light,Products
+65,tree,Products
+66,shrub,Products
+67,camera,Products
+68,dock,Products
+69,right turn sign,Products
+70,left turn sign,Products
+71,painted bike refuge,Products
+72,other signage,Products
+73,painted bike lane signage,Products
+74,kerb,Products
+75,gutter,Products
+76,traffic island,Products
+77,bike traffic light,Products
+78,pedestian traffic light,Products
+79,car traffic light,Products
+80,shared lane ,Products
+81,underpass,Products
+82,through car lane ,Products
+83,right turn car lane,Products
+84,left turn car lane,Products
+85,bus lane,Products
+86,ramp,Products
+87,bike lane,Products
+88,pedestrian lane,Products
+89,pedestrian crossing,Products
+90,turn-around facilities,Products
+91,right turning lane,Products
+92,cyclist activated lights,Products
+93,guide sign,Products
+100,add clear signage on traffic light,Services
+101,add clear signage at intersection,Services
+102,add clear guide sign beside roads,Services
+103,build underpass,Services
+104,raise pavement to footpath level,Services
+105,rearrange bike traffic light,Services
+106,extend bike lane as continuous lane,Services
+107,set restricted car lane,Services
+108,build fast and slow bike lanes,Services
+109,set restricted car parking area,Services
+110,widen car lane,Services
+111,widen shared path,Services
+112,widen bike lane,Services
+113,revamp bike lane,Services
+114,make bike docks end to end,Services
+115,restrict car driving direction,Services
+116,ban parking,Services
+117,force cyclists dismount,Services
+118,educate drivers,Services
+119,provide subsidy to cyclists,Services
+120,reinstate the bike lane once the construction is complete,Services
+121,ban cars,Services
+122,paint bike refuge at right place,Services
